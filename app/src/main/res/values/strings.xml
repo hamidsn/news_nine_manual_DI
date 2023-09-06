@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nine News</string>
+    <string name="news_details">News details</string>
+    <string name="news_list">News list</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="empty_list">No news loaded</string>
+    <string name="retry">Retry</string>
+    <string name="try_again">Try again</string>
+    <string name="loading">Loading</string>
+    <string name="article_photo">article photo</string>
+</resources>
